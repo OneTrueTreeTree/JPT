@@ -8,7 +8,7 @@ Install all missing Python packages
 3. Change the os.pathsep to the location of the FFmpeg /bin/ folder
 4. Run JPT_x_y_z as administrator with ICR_x_y_z in the same folder
 5. Enjoy!
-6. 
+   
 Some examples of what it can do:
 Open a file
 Edit a file
