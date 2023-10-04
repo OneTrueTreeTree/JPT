@@ -1,3 +1,5 @@
+**OLD VERSION:** I'm actually up to 3.0.0 but it requires a bunch of other stuff to be installed and files to be created so I'm curbing it from GitHub until I get a chance to create an installer of some kind for it.
+
 A GPT-based AI Chatbot with speech input and output that can dynamically create and execute Python code on your system. Automatically distinguishes between conversation and requests for the system.
 
 INSTRUCTIONS FOR USE:
