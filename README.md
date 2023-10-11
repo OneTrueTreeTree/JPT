@@ -1,4 +1,4 @@
-A GPT-based AI Chatbot with speech input and output that can dynamically create and execute Python code on your system. Automatically distinguishes between conversation and requests for the system.
+A GPT-based AI Chatbot with speech input and output that can dynamically create and execute Python code on your system. Automatically distinguishes between conversation and requests for the system. A very boiled-down version of Auto-GPT. 
 
 INSTALLATION:
 1. Install Python
