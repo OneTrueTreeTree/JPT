@@ -1,15 +1,11 @@
-**OLD VERSION:** I'm actually up to 3.0.0 but it requires a bunch of other stuff to be installed and files to be created so I'm curbing it from GitHub until I get a chance to create an installer of some kind for it.
-
 A GPT-based AI Chatbot with speech input and output that can dynamically create and execute Python code on your system. Automatically distinguishes between conversation and requests for the system.
 
-INSTRUCTIONS FOR USE:
-
-Install all missing Python packages
-1. Add your personal 11ElevenLabs and OpenAI API keys to set_api_key and open.api_key respectively to JPT_x_y_z.py
-2. Change the pydub.AudioSegment.converter to an FFmpeg instalation location
-3. Change the os.pathsep to the location of the FFmpeg /bin/ folder
-4. Run JPT_x_y_z as administrator with ICR_x_y_z in the same folder
-5. Enjoy!
+INSTALLATION:
+1. Install Python
+2. Install pip
+3. Download and run installer.py
+     (The installer will download the other required files)
+5. Add API keys from 11ElevenLabs and OpenAi into JPT.py
    
 Some examples of what it can do:
 . Open a file
