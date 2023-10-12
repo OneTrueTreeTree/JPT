@@ -1,5 +1,6 @@
 import os, subprocess, webbrowser
 # Check if Python is installed
+
 try:
     subprocess.check_output('python --version', shell=True)
 except subprocess.CalledProcessError:
