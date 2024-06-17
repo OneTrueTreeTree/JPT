@@ -18,3 +18,5 @@ Some examples of what it can do:
 7. Use audio input and output for conversation
    
 ***WARNING:*** **TL;DR: This thing is kind of random, be careful.** JPT has no idea what kind of system you actually have. It will assume it is Windows 10, and that programs are in their default location. It may do things that are not intended. (Eg. Me asking it to disconnect from wifi made it disable wifi on my computer as a whole using Powershell) Don't use it without some basic technical knowledge, and especially don't use it for anything regarding essential documents you couldn't afford to lose.
+
+This is just for fun.
